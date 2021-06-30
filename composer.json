@@ -1,0 +1,14 @@
+{
+    "name": "sauri/test-many-users",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "sau",
+            "email": "akinay.sau@gmail.com"
+        }
+    ],
+    "require": {
+    }
+}
